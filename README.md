@@ -73,8 +73,6 @@ Techplement/
     │   ├── register.html     # Registration page
     │   ├── login.html        # Login page
     │   └── profile.html      # Profile page
-    ├── static/               # Static files (CSS, JS)
-    │   └── styles.css        # Custom CSS
     ├── users.db              # SQLite database
     └── requirements.txt      # Project dependencies
 ```
